@@ -19,14 +19,11 @@ mkdir qiime2-atacama-tutorial
 ### Ingresar al directorio:
 cd qiime2-atacama-tutorial
 ### Descargar metadatos:
-Manualmente: recuerde guardar los datos en el directorio que
-creamos, y guardar el archivo con el nombre “sample_metadata.tsv”:
+Manualmente: recuerde guardar los datos en el directorio que creamos, y guardar el archivo con el nombre “sample_metadata.tsv”:
 https://data.qiime2.org/2023.5/tutorials/atacama-soils/sample_metadata.tsv
 Desde el terminal de comandos con wget o curl:
-wget -O "sample-metadata.tsv" "https://data.qiime2.org/2023.5/tutorials/atacama-
-soils/sample_metadata.tsv"
-curl -sL "https://data.qiime2.org/2023.5/tutorials/atacama-soils/sample_metadata.tsv" >
-"sample-metadata.tsv"
+wget -O "sample-metadata.tsv" "https://data.qiime2.org/2023.5/tutorials/atacama-soils/sample_metadata.tsv"
+curl -sL "https://data.qiime2.org/2023.5/tutorials/atacama-soils/sample_metadata.tsv" >"sample-metadata.tsv"
 #### Descargar secuencias:
 Crear directorio para las secuencias:
 mkdir emp-paired-end-sequences
