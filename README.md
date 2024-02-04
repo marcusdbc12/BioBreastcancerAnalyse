@@ -119,7 +119,7 @@ qiime diversity beta-group-significance --i-distance-matrix core-metrics-results
 qiime emperor plot --i-pcoa core-metrics-results/unweighted_unifrac_pcoa_results.qza --m-metadata-file sample-metadata.tsv --p-custom-axes days-since-experiment-start --o-visualization core-metrics-results/unweighted-unifrac-emperor-days-since-experiment-start.qzv
 Visualización obtenida:
 core-metrics-results/unweighted-unifrac-emperor-days-since-experiment-start.qzv
-##### 9.- Análisis taxonómico:
+#### 9.- Análisis taxonómico:
 Clasificaremos nuestros “features” de acuerdo a la taxonomía de la base de datos Greengenes. Para esto, hay que descargar la base de datos:
 Descarga manual:
 https://data.qiime2.org/2023.5/common/gg-13-8-99-515-806-nb-classifier.qza
@@ -158,6 +158,3 @@ qiime composition ancom --i-table comp-gut-table-l6.qza --m-metadata-file sample
 Archivos obtenidos:
 gut-table-l6.qza
 comp-gut-table-l6.qza
-PREGUNTA: ¿Qué géneros son diferentes entre las muestras?
-
-
