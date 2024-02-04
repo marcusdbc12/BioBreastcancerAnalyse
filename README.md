@@ -3,7 +3,7 @@
 ### Actividad 2 
 #### Integrantes: Betty Lucía Cruz Quinzo, Marcos Diego Barrionuevo Cordonez, Zynnia Echeverría, Darling Balón.
 El siguiente repositorio es creado para la actividad grupal de la materia de introducción a la programación científica en el cual se subirá y modificará el dataset libre de breastcancer del enlace: https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original
-## La actividad es el  Análisis de microbiota que corresponde a la matería de Ómicas y Secuenciación.
+## La actividad es sobre el Análisis de microbiota que corresponde a la matería de Ómicas y Secuenciación.
 ### Objetivo:  
 El objetivo de esta actividad es seguir los pasos para el análisis de datos de microbioma para entender en qué consiste cada uno, y poder sacar conclusiones de los datos obtenidos. 
 ### Instruccion para el desarrollo de esta actividad
