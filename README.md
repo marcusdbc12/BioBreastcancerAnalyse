@@ -1,4 +1,4 @@
-# Universidad UNIR
+<p align="center">Universidad UNIR</p>
 ## Materia: Introducción a la programación científica
 ## Repositorio BioBreastcancerAnalyse
 ### Actividad grupal
