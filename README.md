@@ -13,6 +13,30 @@ El siguiente repositorio es creado para la actividad grupal de la materia de int
 ##### Proceso de creación de git
 ###### 1. Se realiza la creación de un repositorio en github:
 ![Alt text](img/t1.png)
+###### 2. Se detalla una dsescripción del proyecto 
+
+###### 3. Se clona el repositorio localmente 
+
+
+##### 4. Se crea la estructura de directorios y se validan los branch existentes
+
+
+
+##### 5. Se crea tokens para editar el repo 
+
+
+
+###### 6. Adeción de los colaboradores
+
+
+
+###### 7. Se sube archivos al repositorio
+
+#####8. Se crean branch adicionales 
+
+
+
+
 
 ## La actividad es sobre el Análisis de microbioma que corresponde a la matería de Ómicas y Secuenciación.
 ### Objetivo:  
