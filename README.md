@@ -2,7 +2,12 @@
 ## Materia: Introducción a la programación científica
 ## Repositorio BioBreastcancerAnalyse
 ### Actividad grupal
-#### Integrantes: Betty Lucía Cruz Quinzo, Marcos Diego Barrionuevo Cordonez, Zynnia Leonor Echeverría Vergara, Darling Sugey Balón Cortez.
+#### Integrantes y usuarios: 
+Betty Lucía Cruz Quinzo / @BettyLuc
+Marcos Diego Barrionuevo Cordonez / @marcusdbc12
+Darling Sugey Balón Cortez / @dsbalon
+Zynnia Leonor Echeverría Vergara / @ZynniaLeo
+
 El siguiente repositorio es creado para la actividad grupal de la materia de introducción a la programación científica en el cual se subirá y modificará el dataset de ejemplo provisto por qiime2 utilizado en la actividad 2 de secuenciación y ómicas de proxima generación
 
 ## La actividad es sobre el Análisis de microbioma que corresponde a la matería de Ómicas y Secuenciación.
