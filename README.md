@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-# UNIVERSIDAD DE LA RIOJA
-# BioBreastcancerAnalyse
-# Materia: Introducción a la programación científica
-=======
 # Universidad UNIR
 ## Materia: Introducción a la programación científica
 ## Repositorio BioBreastcancerAnalyse
->>>>>>> fcb0527f2f06d1bb540610fcf0f236bff3a22d04
 ### Actividad grupal
 #### Integrantes / usuarios: 
 Betty Lucía Cruz Quinzo / @BettyLuc;
