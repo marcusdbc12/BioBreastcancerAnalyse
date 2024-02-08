@@ -18,7 +18,7 @@ El siguiente repositorio es creado para la actividad grupal de la materia de int
 
 ##### Proceso de creación de git
 ###### 1. Se realiza la creación de un repositorio en github:
-
+![Alt text](img/t1.png)
 
 ## La actividad es sobre el Análisis de microbioma que corresponde a la matería de Ómicas y Secuenciación.
 ### Objetivo:  
