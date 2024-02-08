@@ -1,9 +1,25 @@
+<<<<<<< HEAD
 # UNIVERSIDAD DE LA RIOJA
 # BioBreastcancerAnalyse
 # Materia: Introducción a la programación científica
+=======
+# Universidad UNIR
+## Materia: Introducción a la programación científica
+## Repositorio BioBreastcancerAnalyse
+>>>>>>> fcb0527f2f06d1bb540610fcf0f236bff3a22d04
 ### Actividad grupal
-#### Integrantes: Betty Lucía Cruz Quinzo, Marcos Diego Barrionuevo Cordonez, Zynnia Echeverría, Darling Balón.
-El siguiente repositorio es creado para la actividad grupal de la materia de introducción a la programación científica en el cual se subirá y modificará el dataset libre de breastcancer del enlace: https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original
+#### Integrantes / usuarios: 
+Betty Lucía Cruz Quinzo / @BettyLuc;
+Marcos Diego Barrionuevo Cordonez / @marcusdbc12;
+Darling Sugey Balón Cortez / @dsbalon;
+Zynnia Leonor Echeverría Vergara / @ZynniaLeo
+
+El siguiente repositorio es creado para la actividad grupal de la materia de introducción a la programación científica en el cual se subirá y modificará el dataset de ejemplo provisto por qiime2 utilizado en la actividad 2 de secuenciación y ómicas de proxima generación
+
+##### Proceso de creación de git
+###### 1. Se realiza la creación de un repositorio en github:
+
+
 ## La actividad es sobre el Análisis de microbioma que corresponde a la matería de Ómicas y Secuenciación.
 ### Objetivo:  
 El objetivo de esta actividad es seguir los pasos para el análisis de datos de microbioma para entender en qué consiste cada uno, y poder sacar conclusiones de los datos obtenidos. 
