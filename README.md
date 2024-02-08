@@ -16,7 +16,7 @@ El siguiente repositorio es creado para la actividad grupal de la materia de int
 ###### 2. Se detalla una dsescripción del proyecto 
 ![Alt text](img/t2.png)
 ###### 3. Se clona el repositorio localmente 
-
+![Alt text](img/t3.png)
 
 ##### 4. Se crea la estructura de directorios y se validan los branch existentes
 
