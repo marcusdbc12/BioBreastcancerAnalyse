@@ -31,7 +31,7 @@ El siguiente repositorio es creado para la actividad grupal de la materia de int
 
 ###### 7. Se sube archivos al repositorio
 
-#####8. Se crean branch adicionales 
+######8. Se crean branch adicionales 
 
 
 
