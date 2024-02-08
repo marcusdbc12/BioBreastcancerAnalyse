@@ -14,7 +14,7 @@ El siguiente repositorio es creado para la actividad grupal de la materia de int
 ###### 1. Se realiza la creación de un repositorio en github:
 ![Alt text](img/t1.png)
 ###### 2. Se detalla una dsescripción del proyecto 
-
+![Alt text](img/t2.png)
 ###### 3. Se clona el repositorio localmente 
 
 
