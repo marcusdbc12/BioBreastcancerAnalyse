@@ -39,7 +39,7 @@ El siguiente repositorio es creado para la actividad grupal de la materia de int
 
 
 
-## La actividad es sobre el Análisis de microbioma que corresponde a la matería de Ómicas y Secuenciación.
+## La actividad que hemos subido a continuación es sobre el Análisis de microbioma que corresponde a la matería de Secuenciación y Ómicas de próxima generación.
 ### Objetivo:  
 El objetivo de esta actividad es seguir los pasos para el análisis de datos de microbioma para entender en qué consiste cada uno, y poder sacar conclusiones de los datos obtenidos. 
 ### Instruccion para el desarrollo de esta actividad
